@@ -1,0 +1,23 @@
+[
+  {
+    "company": "Gong",
+    "name": "Amit",
+    "email": "amit@gong.io",
+    "research": "Error: 429 Client Error: Too Many Requests for url: https://openrouter.ai/api/v1/chat/completions",
+    "draft": "Error: 429 Client Error: Too Many Requests for url: https://openrouter.ai/api/v1/chat/completions"
+  },
+  {
+    "company": "Outreach",
+    "name": "Nate",
+    "email": "nate@outreach.io",
+    "research": "Error: 429 Client Error: Too Many Requests for url: https://openrouter.ai/api/v1/chat/completions",
+    "draft": "Error: 429 Client Error: Too Many Requests for url: https://openrouter.ai/api/v1/chat/completions"
+  },
+  {
+    "company": "Salesloft",
+    "name": "Kyle",
+    "email": "kyle@salesloft.com",
+    "research": "Error: 429 Client Error: Too Many Requests for url: https://openrouter.ai/api/v1/chat/completions",
+    "draft": "Error: 429 Client Error: Too Many Requests for url: https://openrouter.ai/api/v1/chat/completions"
+  }
+]
